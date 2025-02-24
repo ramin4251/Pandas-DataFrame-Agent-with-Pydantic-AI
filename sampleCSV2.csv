@@ -1,0 +1,32 @@
+﻿id,province,coordinates,weight,zone,color
+1,East Azerbaijan Province,"37.9035733,46.2682109",71,3,Orange
+2,West Azerbaijan Province,"37.4550062,45",1,1,Green
+3,Ardebil Province,"38.2537363,48.2999901",10,1,Green
+4,Isfahan Province,"32.6546275,51.6679826",97,4,Red
+5,Alborz Province,"35.855938,50.96175",81,4,Red
+6,Ilam Province,"33.6349736,46.415281",54,3,Orange
+7,Bushehr Province,"28.9233837,50.8203140",48,2,Yellow
+8,Tehran Province,"35.6891975,51.3889736",73,3,Orange
+9,Chahar Mahall va Bakhtiari Province,"31.9970419,50.6613849",8,1,Green
+10,South Khorasan Province,"32.5175643,59.1041758",62,3,Orange
+11,Razavi Khorasan Province,"35.1020253,59.1041758",74,3,Orange
+12,North Khorasan Province,"37.4710353,57.1013188",67,3,Orange
+13,Khuzestan Province,"31.4360149,49.041312",97,4,Red
+14,Zanjan Province,"36.6830045,48.5087209",36,2,Yellow
+15,Semnan Province,"35.2255585,54.4342138",96,4,Red
+16,Sistan and Baluchestan Province,"27.5299906,60.5820676",54,3,Orange
+17,Fars Province,"29.513499, 53.031543",46,2,Yellow
+18,Qazvin Province,"36.2736589,49.998236",41,2,Yellow
+19,Qom Province,"34.6399443,50.8759419",91,4,Red
+20,Kurdistan Province,"35.3113,46.996",99,4,Red
+21,Kerman Province,"30.2839379,57.0833628",71,3,Orange
+22,Kermanshah Province,"34.3276924,47.0777685",96,4,Red
+23,Kohgiluyeh and Buyer Ahmad Province,"30.724586,50.8456323",83,4,Red
+24,Golestan Province,"36.8393,54.4444",55,3,Orange
+25,Gilan Province,"37.2809455,49.5924134",18,1,Green
+26,Lorestan Province,"33.5818394,48.3988186",65,3,Orange
+27,Mazandaran Province,"36.2262393,52.5318604",4,1,Green
+28,Markazi Province,"34.612305,49.8547266",80,4,Red
+29,Hormozgan Province,"27.138723,55.1375834",12,1,Green
+30,Hamedan Province,"34.7988575,48.5150225",75,4,Red
+31,Yazd Province,"31.8974232,54.3568562",99,4,Red
