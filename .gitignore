@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+.python-version
+
+# Package / distribution
+*.egg-info/
+.eggs/
+dist/
+build/
+wheels/
+sdist/
+*.egg
+*.whl
+MANIFEST.in
+*.manifest
+*.spec
+*.project
+*.pyproject
+*.toml
+docs/_build
+.pytest_cache
+.coverage
+*.log
+*.tmp
+
+# Environments
+.env
+*.env
+
+# OS generated files #
+.DS_Store
+Thumbs.db
